@@ -1,15 +1,28 @@
 {
   "name": "familybot",
   "version": "1.0.0",
-  "description": "",
+  "description": "familybot",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
+    "discord.js": "^11.5.1",
     "dotenv": "^8.2.0",
     "save": "^2.4.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "_whois"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bludmane/FamilyBOT.git"
+  },
+  "keywords": [
+    "hot"
+  ],
+  "author": "Bludmane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bludmane/FamilyBOT/issues"
+  },
+  "homepage": "https://github.com/Bludmane/FamilyBOT#readme"
 }
